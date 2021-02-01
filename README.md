@@ -1,4 +1,4 @@
-# airmilesfrontend
+# PROJECT Air Miles Front End Project
 
 PROJECT Air Miles Front End Project
 
